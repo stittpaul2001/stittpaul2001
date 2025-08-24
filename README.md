@@ -1,36 +1,41 @@
 # Hi there, I'm Paul! 👋
 
 I'm a software developer passionate about web development and open-source projects.  
-Currently a student at **Boise CodeWorks**, always eager to learn and explore new technologies!
+Currently a student at **Boise CodeWorks**, always learning and building!
 
 ---
 
 ## 🔥 Tech Stack
 
-**Languages:💻**  
-JavaScript • Python • HTML • CSS • SQL • More as I learn!
-
-**Frameworks:⚡**  
-React • Node.js • Django
-
-**Tools:🛠**  
-Git • Docker • VS Code • Visual Studio
-
----
-
-## 🚀 What I’m Up To
-
-- Learning everything Boise CodeWorks has to offer
-- Building cool projects and experimenting with new tech
-- Setting up repositories and mastering version control
-- Exploring web development and backend fundamentals
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🛠️ Projects & Interests
+## 🚀 What I'm Learning
+- Full-stack web development at Boise CodeWorks
+- Building cool projects and mastering new tech
+- Setting up repositories and version control
 
-Love collaborating on open-source, web apps, and anything that helps me grow as a developer!  
-Curious, motivated, and always up for a new challenge.
+---
+
+## 📂 Featured Projects
+
+- Coming soon! *(Add your favorite repos here with short descriptions)*
+
+---
+
+## 🌱 About Me
+Curious, creative, and excited to connect with fellow developers.
+Always eager to learn, share, and grow in the world of tech!
 
 ---
 
