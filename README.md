@@ -7,6 +7,7 @@ I'm a passionate software developer and current student at **Boise CodeWorks**. 
 ## 🔥 Tech Stack
 
 ** 💻 Languages: 💻 ** 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
@@ -14,11 +15,13 @@ I'm a passionate software developer and current student at **Boise CodeWorks**. 
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql)
 
 ** ⚡ Frameworks: ⚡ ** 
+
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white)
 
 ** 🛠 Tools/Platforms: 🛠 ** 
+
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
