@@ -65,3 +65,11 @@ Always eager to learn, share, and grow in the world of tech!
 ---
 
 *Let's connect and learn together!*
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stittpaul2001&layout=compact&theme=github_dark)
+
+## 🏆 GitHub Stats
+
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=stittpaul2001&show_icons=true&theme=github_dark)
