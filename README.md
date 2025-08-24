@@ -35,8 +35,12 @@ I'm a passionate software developer and current student at **Boise CodeWorks**. 
 ![Discord](https://img.shields.io/badge/-Discord-blue?logo=discord)
 ![CodeWorks](https://img.shields.io/badge/-CodeWorks-blueviolet)
 
-## 🎯 Key Concepts Covered
+## 🚀 What I'm Learning 🚀 / 🎯 Key Concepts Covered 🎯 ##
 
+- Full-stack web development at Boise CodeWorks
+- Building cool projects and mastering new tech
+- Setting up repositories and version control
+  
 - MVC Architecture & RESTful APIs
 - SPA development with React
 - Database design: SQL & NoSQL
@@ -45,16 +49,9 @@ I'm a passionate software developer and current student at **Boise CodeWorks**. 
 - Test Driven Development (TDD)
 ---
 
-## 🚀 What I'm Learning
-- Full-stack web development at Boise CodeWorks
-- Building cool projects and mastering new tech
-- Setting up repositories and version control
-
----
-
 ## 📂 Featured Projects
 
-- Coming soon! *(Add your favorite repos here with short descriptions)*
+- Coming soon! **
 
 ---
 
