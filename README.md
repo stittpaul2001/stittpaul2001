@@ -9,7 +9,6 @@ I'm a passionate software developer and current student at **Boise CodeWorks**. 
 ** 💻 Languages: 💻 ** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql)
